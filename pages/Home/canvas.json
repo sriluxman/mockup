@@ -1154,11 +1154,14 @@
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
+                },
+                {
+                  "key": "image"
                 }
               ],
               "defaultImage": "https://assets.appsmith.com/widgets/default.png",
               "key": "i9r0hgjj2e",
-              "image": "https://raw.githubusercontent.com/sriluxman/mockup-db/main/InfoGraphics.png?token=GHSAT0AAAAAACBZMNCK7UP3IKBIBAQYNYDIZCL3O4Q",
+              "image": "{{GetGithubFile.data}}",
               "isDeprecated": false,
               "rightColumn": 60,
               "objectFit": "contain",
@@ -1177,7 +1180,18 @@
             }
           ]
         },
-        "layoutOnLoadActions": [],
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "Home_GetGithubFile",
+              "name": "GetGithubFile",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            }
+          ]
+        ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Home",
