@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "⚡Compliance",
-    "slug": "compliance",
+    "name": "Continuous Integration",
+    "slug": "continuous-integration",
     "layouts": [
       {
         "viewMode": false,
@@ -35,8 +35,8 @@
                 "paragraph",
                 "label"
               ],
-              "topRow": 1,
-              "bottomRow": 5,
+              "topRow": 2,
+              "bottomRow": 6,
               "parentRowSpace": 10,
               "type": "TEXT_WIDGET",
               "hideCard": false,
@@ -60,13 +60,13 @@
               ],
               "shouldTruncate": false,
               "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-              "text": "Central view of SBOMs, CVEs, QA, Compliance reports",
+              "text": "Faster feedbacks loops allowing you to fail fast, shift left and push the boundaries",
               "key": "ucobrldohr",
               "isDeprecated": false,
               "rightColumn": 46,
               "textAlign": "LEFT",
               "dynamicHeight": "AUTO_HEIGHT",
-              "widgetId": "gebqscw2ow",
+              "widgetId": "3b3zk7fg0b",
               "minWidth": 450,
               "isVisible": true,
               "fontStyle": "BOLD",
@@ -90,7 +90,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "⚡Compliance",
+        "id": "Continuous Integration",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -101,5 +101,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "644964039403123220b7b398_6449670701e69b53ba6d9dd0"
+  "gitSyncId": "644964039403123220b7b398_644966ba9403123220b7b3de"
 }

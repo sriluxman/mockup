@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "⚡Deployment",
-    "slug": "deployment",
+    "name": "Monitoring",
+    "slug": "monitoring",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 380,
+          "bottomRow": 420,
           "containerStyle": "none",
           "snapRows": 98,
           "parentRowSpace": 1,
@@ -35,8 +35,8 @@
                 "paragraph",
                 "label"
               ],
-              "topRow": 2,
-              "bottomRow": 6,
+              "topRow": 1,
+              "bottomRow": 5,
               "parentRowSpace": 10,
               "type": "TEXT_WIDGET",
               "hideCard": false,
@@ -60,13 +60,73 @@
               ],
               "shouldTruncate": false,
               "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-              "text": "Stay in control with advanced Release Management features",
+              "text": "Continuous improvement enabled by Monitoring and Observability",
               "key": "ucobrldohr",
               "isDeprecated": false,
               "rightColumn": 46,
               "textAlign": "LEFT",
               "dynamicHeight": "AUTO_HEIGHT",
-              "widgetId": "5zl80t2ddg",
+              "widgetId": "n3sit54xbe",
+              "minWidth": 450,
+              "isVisible": true,
+              "fontStyle": "BOLD",
+              "textColor": "#231F20",
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "mobileTopRow": 40,
+              "responsiveBehavior": "fill",
+              "originalTopRow": 0,
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "mobileLeftColumn": 0,
+              "maxDynamicHeight": 9000,
+              "originalBottomRow": 5,
+              "fontSize": "1rem",
+              "minDynamicHeight": 4
+            },
+            {
+              "mobileBottomRow": 44,
+              "widgetName": "Text2Copy1",
+              "displayName": "Text",
+              "iconSVG": "/static/media/icon.97c59b523e6f70ba6f40a10fc2c7c5b5.svg",
+              "searchTags": [
+                "typography",
+                "paragraph",
+                "label"
+              ],
+              "topRow": 38,
+              "bottomRow": 42,
+              "parentRowSpace": 10,
+              "type": "TEXT_WIDGET",
+              "hideCard": false,
+              "mobileRightColumn": 12,
+              "animateLoading": true,
+              "overflow": "NONE",
+              "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+              "parentColumnSpace": 13.734375,
+              "dynamicTriggerPathList": [],
+              "leftColumn": 1,
+              "dynamicBindingPathList": [
+                {
+                  "key": "truncateButtonColor"
+                },
+                {
+                  "key": "fontFamily"
+                },
+                {
+                  "key": "borderRadius"
+                }
+              ],
+              "shouldTruncate": false,
+              "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+              "text": "Proactive failure notification",
+              "key": "ucobrldohr",
+              "isDeprecated": false,
+              "rightColumn": 46,
+              "textAlign": "LEFT",
+              "dynamicHeight": "AUTO_HEIGHT",
+              "widgetId": "2e19mzkvoi",
               "minWidth": 450,
               "isVisible": true,
               "fontStyle": "BOLD",
@@ -95,8 +155,8 @@
                 "paragraph",
                 "label"
               ],
-              "topRow": 11,
-              "bottomRow": 15,
+              "topRow": 16,
+              "bottomRow": 20,
               "parentRowSpace": 10,
               "type": "TEXT_WIDGET",
               "hideCard": false,
@@ -120,73 +180,13 @@
               ],
               "shouldTruncate": false,
               "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-              "text": "Create delivery packages",
+              "text": "Performance monitoring for optimization",
               "key": "ucobrldohr",
               "isDeprecated": false,
               "rightColumn": 46,
               "textAlign": "LEFT",
               "dynamicHeight": "AUTO_HEIGHT",
-              "widgetId": "a17sxiqd37",
-              "minWidth": 450,
-              "isVisible": true,
-              "fontStyle": "BOLD",
-              "textColor": "#231F20",
-              "version": 1,
-              "parentId": "0",
-              "renderMode": "CANVAS",
-              "isLoading": false,
-              "mobileTopRow": 40,
-              "responsiveBehavior": "fill",
-              "originalTopRow": 0,
-              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-              "mobileLeftColumn": 0,
-              "maxDynamicHeight": 9000,
-              "originalBottomRow": 5,
-              "fontSize": "1rem",
-              "minDynamicHeight": 4
-            },
-            {
-              "mobileBottomRow": 44,
-              "widgetName": "Text2CopyCopy",
-              "displayName": "Text",
-              "iconSVG": "/static/media/icon.97c59b523e6f70ba6f40a10fc2c7c5b5.svg",
-              "searchTags": [
-                "typography",
-                "paragraph",
-                "label"
-              ],
-              "topRow": 21,
-              "bottomRow": 25,
-              "parentRowSpace": 10,
-              "type": "TEXT_WIDGET",
-              "hideCard": false,
-              "mobileRightColumn": 12,
-              "animateLoading": true,
-              "overflow": "NONE",
-              "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
-              "parentColumnSpace": 13.734375,
-              "dynamicTriggerPathList": [],
-              "leftColumn": 1,
-              "dynamicBindingPathList": [
-                {
-                  "key": "truncateButtonColor"
-                },
-                {
-                  "key": "fontFamily"
-                },
-                {
-                  "key": "borderRadius"
-                }
-              ],
-              "shouldTruncate": false,
-              "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-              "text": "Manage deployments",
-              "key": "ucobrldohr",
-              "isDeprecated": false,
-              "rightColumn": 46,
-              "textAlign": "LEFT",
-              "dynamicHeight": "AUTO_HEIGHT",
-              "widgetId": "uypsg0na8s",
+              "widgetId": "6m50uv0c8b",
               "minWidth": 450,
               "isVisible": true,
               "fontStyle": "BOLD",
@@ -210,7 +210,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "⚡Deployment",
+        "id": "Monitoring",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -221,5 +221,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "644964039403123220b7b398_644966e19403123220b7b3e3"
+  "gitSyncId": "644964039403123220b7b398_644966eb01e69b53ba6d9dc0"
 }

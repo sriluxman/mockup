@@ -5,11 +5,15 @@
       "isDefault": true
     },
     {
-      "id": "⚡Organization",
+      "id": "Centralized MLM",
       "isDefault": false
     },
     {
-      "id": "⚡Marketplace",
+      "id": "Organization",
+      "isDefault": false
+    },
+    {
+      "id": "Marketplace",
       "isDefault": false
     },
     {
@@ -29,23 +33,23 @@
       "isDefault": false
     },
     {
-      "id": "⚡Machines and Lines",
+      "id": "Machines and Lines",
       "isDefault": false
     },
     {
-      "id": "⚡Continuous Integration",
+      "id": "Continuous Integration",
       "isDefault": false
     },
     {
-      "id": "⚡Deployment",
+      "id": "Deployment",
       "isDefault": false
     },
     {
-      "id": "⚡Monitoring",
+      "id": "Monitoring",
       "isDefault": false
     },
     {
-      "id": "⚡Compliance",
+      "id": "Compliance",
       "isDefault": false
     },
     {
@@ -57,7 +61,7 @@
       "isDefault": false
     },
     {
-      "id": "⚡Machines and Lines Copy",
+      "id": "Machines and Lines Copy",
       "isDefault": false
     }
   ],

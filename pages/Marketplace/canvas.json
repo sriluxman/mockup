@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "⚡Continuous Integration",
-    "slug": "continuous-integration",
+    "name": "Marketplace",
+    "slug": "marketplace",
     "layouts": [
       {
         "viewMode": false,
@@ -15,19 +15,19 @@
           "topRow": 0,
           "bottomRow": 380,
           "containerStyle": "none",
-          "snapRows": 98,
+          "snapRows": 97,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 78,
-          "minHeight": 1000,
+          "minHeight": 990,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0,
           "children": [
             {
-              "mobileBottomRow": 44,
-              "widgetName": "Text2",
+              "mobileBottomRow": 5,
+              "widgetName": "Text1",
               "displayName": "Text",
               "iconSVG": "/static/media/icon.97c59b523e6f70ba6f40a10fc2c7c5b5.svg",
               "searchTags": [
@@ -35,18 +35,18 @@
                 "paragraph",
                 "label"
               ],
-              "topRow": 2,
-              "bottomRow": 6,
+              "topRow": 1,
+              "bottomRow": 5,
               "parentRowSpace": 10,
               "type": "TEXT_WIDGET",
               "hideCard": false,
-              "mobileRightColumn": 12,
+              "mobileRightColumn": 13,
               "animateLoading": true,
               "overflow": "NONE",
               "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
-              "parentColumnSpace": 13.734375,
+              "parentColumnSpace": 20.46875,
               "dynamicTriggerPathList": [],
-              "leftColumn": 1,
+              "leftColumn": 0,
               "dynamicBindingPathList": [
                 {
                   "key": "truncateButtonColor"
@@ -60,13 +60,13 @@
               ],
               "shouldTruncate": false,
               "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-              "text": "Faster feedbacks loops allowing you to fail fast, shift left and push the boundaries",
-              "key": "ucobrldohr",
+              "text": "OPERATE",
+              "key": "vi51qxyuu3",
               "isDeprecated": false,
-              "rightColumn": 46,
+              "rightColumn": 13,
               "textAlign": "LEFT",
               "dynamicHeight": "AUTO_HEIGHT",
-              "widgetId": "3b3zk7fg0b",
+              "widgetId": "viygos8y4v",
               "minWidth": 450,
               "isVisible": true,
               "fontStyle": "BOLD",
@@ -75,13 +75,11 @@
               "parentId": "0",
               "renderMode": "CANVAS",
               "isLoading": false,
-              "mobileTopRow": 40,
+              "mobileTopRow": 1,
               "responsiveBehavior": "fill",
-              "originalTopRow": 0,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "mobileLeftColumn": 0,
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 5,
               "fontSize": "1rem",
               "minDynamicHeight": 4
             }
@@ -90,7 +88,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "⚡Continuous Integration",
+        "id": "Marketplace",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -101,5 +99,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "644964039403123220b7b398_644966ba9403123220b7b3de"
+  "gitSyncId": "644964039403123220b7b398_6449bb01a3af275907721645"
 }

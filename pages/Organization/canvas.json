@@ -1,6 +1,6 @@
 {
   "unpublishedPage": {
-    "name": "⚡Organization",
+    "name": "Organization",
     "slug": "organization",
     "layouts": [
       {
@@ -3240,7 +3240,7 @@
                 "notification"
               ],
               "topRow": 82,
-              "bottomRow": 24,
+              "bottomRow": 322,
               "parentRowSpace": 10,
               "type": "MODAL_WIDGET",
               "hideCard": false,
@@ -4150,7 +4150,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "⚡Organization",
+        "id": "Organization",
         "deleted": false,
         "policies": [],
         "userPermissions": []

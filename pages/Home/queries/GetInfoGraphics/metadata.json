@@ -2,7 +2,7 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "GetGithubFile",
+    "name": "GetInfoGraphics",
     "datasource": {
       "name": "Github",
       "pluginId": "restapi-plugin",
@@ -49,7 +49,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Home_GetGithubFile",
+  "id": "Home_GetInfoGraphics",
   "deleted": false,
   "gitSyncId": "644964039403123220b7b398_6452053be49bbc7451318d6a"
 }
