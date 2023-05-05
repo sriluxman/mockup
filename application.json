@@ -13,7 +13,7 @@
       "isDefault": false
     },
     {
-      "id": "Marketplace",
+      "id": "Machines and Fleets",
       "isDefault": false
     },
     {
@@ -33,15 +33,11 @@
       "isDefault": false
     },
     {
-      "id": "Machines and Lines",
-      "isDefault": false
-    },
-    {
       "id": "Continuous Integration",
       "isDefault": false
     },
     {
-      "id": "Deployment",
+      "id": "Deployments",
       "isDefault": false
     },
     {
@@ -49,7 +45,11 @@
       "isDefault": false
     },
     {
-      "id": "Compliance",
+      "id": "Notifications",
+      "isDefault": false
+    },
+    {
+      "id": "Dashboards",
       "isDefault": false
     },
     {
@@ -61,7 +61,11 @@
       "isDefault": false
     },
     {
-      "id": "Machines and Lines Copy",
+      "id": "Marketplace",
+      "isDefault": false
+    },
+    {
+      "id": "Settings",
       "isDefault": false
     }
   ],

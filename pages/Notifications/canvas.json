@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Compliance",
-    "slug": "compliance",
+    "name": "Notifications",
+    "slug": "notifications",
     "layouts": [
       {
         "viewMode": false,
@@ -90,7 +90,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Compliance",
+        "id": "Notifications",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -98,7 +98,7 @@
     ],
     "userPermissions": [],
     "policies": [],
-    "isHidden": false
+    "isHidden": true
   },
   "deleted": false,
   "gitSyncId": "644964039403123220b7b398_6449670701e69b53ba6d9dd0"

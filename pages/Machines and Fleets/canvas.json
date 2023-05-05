@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Machines and Lines Copy",
-    "slug": "machines-and-lines-copy",
+    "name": "Machines and Fleets",
+    "slug": "machines-and-fleets",
     "layouts": [
       {
         "viewMode": false,
@@ -3780,7 +3780,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Machines and Lines Copy",
+        "id": "Machines and Fleets",
         "deleted": false,
         "policies": [],
         "userPermissions": []

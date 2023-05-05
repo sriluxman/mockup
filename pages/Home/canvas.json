@@ -886,7 +886,7 @@
               "mobileRightColumn": 10,
               "animateLoading": true,
               "parentColumnSpace": 17.171875,
-              "leftColumn": 33,
+              "leftColumn": 32,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -988,7 +988,7 @@
                       "parentColumnSpace": 7.31982421875,
                       "dynamicTriggerPathList": [],
                       "imageShape": "RECTANGLE",
-                      "leftColumn": 26,
+                      "leftColumn": 24,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -998,7 +998,7 @@
                       "key": "84pp05o9r7",
                       "image": "https://cdn-icons-png.flaticon.com/512/1163/1163482.png",
                       "isDeprecated": false,
-                      "rightColumn": 38,
+                      "rightColumn": 36,
                       "objectFit": "contain",
                       "widgetId": "29b5rovr41",
                       "isVisible": true,
@@ -1038,7 +1038,7 @@
               "key": "sux49477m8",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 63,
+              "rightColumn": 62,
               "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "hsskba5hip",
               "containerStyle": "card",
@@ -1231,7 +1231,7 @@
               "key": "sux49477m8",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 33,
+              "rightColumn": 32,
               "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "xf68umfjoi",
               "containerStyle": "card",

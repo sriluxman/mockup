@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Engineering Environments",
-    "slug": "engineering-environments",
+    "name": "Settings",
+    "slug": "settings",
     "layouts": [
       {
         "viewMode": false,
@@ -13,14 +13,14 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 990,
+          "bottomRow": 1270,
           "containerStyle": "none",
-          "snapRows": 98,
+          "snapRows": 126,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 78,
-          "minHeight": 1000,
+          "minHeight": 1280,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0,
@@ -28,7 +28,7 @@
         },
         "layoutOnLoadActions": [],
         "validOnPageLoadActions": true,
-        "id": "Engineering Environments",
+        "id": "Settings",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -36,8 +36,8 @@
     ],
     "userPermissions": [],
     "policies": [],
-    "isHidden": true
+    "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "644964039403123220b7b398_6449669e9403123220b7b3db"
+  "gitSyncId": "644964039403123220b7b398_6454f8c1d192432eef646cb7"
 }

@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Deployment",
-    "slug": "deployment",
+    "name": "Deployments",
+    "slug": "deployments",
     "layouts": [
       {
         "viewMode": false,
@@ -210,7 +210,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Deployment",
+        "id": "Deployments",
         "deleted": false,
         "policies": [],
         "userPermissions": []
